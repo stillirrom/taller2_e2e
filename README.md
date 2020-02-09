@@ -108,6 +108,10 @@ Ya que algunos de los desarrolladores de Puppeteer en Google ahora hacen parte d
 También cabe resaltar que la transición de Puppeteer a Playwright es sencilla ya que existe una similaridad en los conceptos y en las APIs. 
 
 Una de las desventajas de Playwwright es que dada su “juventud” puede aún tener una alta cantidad de errores y características en desarrollo, por lo cual, puede no estar listo para todos los casos en los que se requiera realizar pruebas usándolo. De acuerdo a github sus primeros commits fueron hace apenas 4 meses.  
+![Playwright](https://github.com/stillirrom/taller2_e2e/blob/master/imagenes/playwright.png)
+
+
+
 
 | 		| Cypress 	|Protractor 	|Puppeteer 	|PlayWright 	|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
