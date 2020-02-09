@@ -115,7 +115,7 @@ Una de las desventajas de Playwwright es que dada su “juventud” puede aún t
 | Pruebas Cross-browser  | No  | No  | No  | Sí |
 | Software libre  | Sí  | Sí  | Sí  | Sí |
 | Navegadores soportados  | Canary, Chrome, Chromium, Edge, Electro y Firefox  | Chrome, Firefox, Internet Explorer y Safari | Chrome y Chromium  | Chromium, Edge, Firefox y WebKit |
-| Último release (Repositorio)   | 2 días atrás (GiHub) - 4.0.1  | 9 días atrás (GiHub) - 5.4.3 | 4 días atrás (GitHub) - 2.1.1  | 9 días atrás (GiHub) - 0.10.0 |
+| Último release (Repositorio)   | 2 días atrás (GiHub) - v4.0.1  | 9 días atrás (GiHub) - v5.4.3 | 4 días atrás (GitHub) - v2.1.1  | 9 días atrás (GiHub) - v0.10.0 |
 
 
 
