@@ -101,6 +101,17 @@ Una de las desventajas de Playwwright es que dada su “juventud” puede aún t
 | 		| Cypress 	|Protractor 	|Puppeteer 	|PlayWright 	|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Interfaz gráfica  | Sí  | No  | No  | No |
+| Generador de configuración   | Sí  | Sí (Con angular CLI)   | No  | No |
+| Locators para AngularJS   | No  | Sí  | No  | No |
+| Integración con Test frameworks   | No, interno (sintaxis jasmine)   | Jasmine, Mocha, Cucumber   | Principalmente todos   | Los mismos de Puppeteer  |
+| Sistemas operativos | Mac, Linux, Windows   | Mac, Linux, Windows   | Mac, Linux, Windows   | Aquellos que usen (Chromium, WebKit o Firefox)  |
+| Grabación de pruebas   | Sí  | No  | No  | No |
+| Selenium backend   | No  | Sí  | No  | No |
+| Time-traveling  | Sí  | No  | No  | No |
+| Pruebas Cross-browser  | No  | No  | No  | Sí |
+| Software libre  | Sí  | No  | No  | No |
+| Navegadores soportados  | Sí  | No  | No  | No |
+| Última actualización   | Sí  | No  | No  | No |
 
 
 
