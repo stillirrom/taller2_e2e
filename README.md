@@ -5,7 +5,7 @@ El taller consistirá en explorar cuatro frameworks de E2E testing distintos:
 
 - [Cypress](#cypress).
 - [Protractor](#protractor).
-- [Puppeteer + Jest](#puppeteer-+-jest).
+- [Puppeteer + Jest](#puppeteer--jest).
 - [Playwright](#playwright).
 
 ## Cypress
