@@ -34,7 +34,8 @@ Use Cypress para realizar las siguientes pruebas sobre la página de Los Estudia
 
 ## Protractor
 
-![Ejecución de pruebas usando Protractor](https://github.com/stillirrom/taller2_e2e/blob/master/video/zoom_1.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yW73JyMqyYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Ejecución de pruebas usando Protractor]
 
 ## Puppeteer + Jest
 Se descargó el Proyecto del siguiente repositorio: 
