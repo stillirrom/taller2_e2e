@@ -14,4 +14,6 @@ Cypress cuenta con varias ventajas. La configuración es bastante simple y tiene
 Use Cypress para realizar las siguientes pruebas sobre la página de Los Estudiantes: 
 
 - Cree una cuenta manualmente y pruebe automatizadamente el login correcto y la creación de una cuenta con los datos de login que uso previamente.
-![Cypress pruebas login y registro](url completa de la imagen)
+![Cypress pruebas login y registro](https://github.com/stillirrom/taller2_e2e/blob/master/imagenes/punto_uno_cypress.jpg)
+![Cypress pruebas login y registro](https://github.com/stillirrom/taller2_e2e/blob/master/imagenes/punto_uno_cypress2.png)
+
