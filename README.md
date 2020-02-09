@@ -98,7 +98,10 @@ También cabe resaltar que la transición de Puppeteer a Playwright es sencilla 
 
 Una de las desventajas de Playwwright es que dada su “juventud” puede aún tener una alta cantidad de errores y características en desarrollo, por lo cual, puede no estar listo para todos los casos en los que se requiera realizar pruebas usándolo. De acuerdo a github sus primeros commits fueron hace apenas 4 meses.  
 
-
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
 
 
 
