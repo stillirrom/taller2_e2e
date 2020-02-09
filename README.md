@@ -32,6 +32,9 @@ Use Cypress para realizar las siguientes pruebas sobre la página de Los Estudia
 
 ![Cypress pruebas filtros por materia](https://github.com/stillirrom/taller2_e2e/blob/master/imagenes/punto_cuatro_cypress.jpg)
 
+## Protractor
+
+![Ejecución de pruebas usando Protractor](https://github.com/stillirrom/taller2_e2e/blob/master/video/zoom_1.mp4)
 
 ## Puppeteer + Jest
 Se descargó el Proyecto del siguiente repositorio: 
