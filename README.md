@@ -14,6 +14,7 @@ El taller consistirá en explorar cuatro frameworks de E2E testing distintos:
 - [Protractor](#protractor).
 - [Puppeteer + Jest](#puppeteer--jest).
 - [Playwright](#playwright).
+- [Resumen](#resumen).
 
 ## Cypress
 Cypress cuenta con varias ventajas. La configuración es bastante simple y tiene incluida una UI para ver las pruebas en vivo. Permite realizar video y snapshots y se integra muy bien al debugging del desarrollador 
@@ -111,6 +112,10 @@ Una de las desventajas de Playwwright es que dada su “juventud” puede aún t
 ![Playwright](https://github.com/stillirrom/taller2_e2e/blob/master/imagenes/playwright.png)
 
 
+
+## Resumen
+
+Aquí se presenta una tabla comparando las diferencias entre las tres herramientas utilizadas en el taller:
 
 
 | 		| Cypress 	|Protractor 	|Puppeteer 	|PlayWright 	|
