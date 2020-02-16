@@ -78,7 +78,6 @@ Luego se crea el archivo **jest-puppeteer.config.js**
 				
 module.exports = {
     launch: {
-        headless: process.env.HEADLESS !== 'false',
         slowMo: process.env.SLOWMO ? process.env.SLOWMO : 0,
         devtools: true
     }
